@@ -1,0 +1,48 @@
+h1 {
+  display: inline-block;
+  font-size: 3em;
+  color: #91002E;
+  text-decoration: underline;
+  text-align: center;
+  padding: 20px;
+  border: 6px solid #FE4C83;
+  margin:20;
+  background: antiquewhite;
+  
+  text-shadow: 4px 4px 10px pink;
+}
+
+h2 {
+  color: #FE4C83;
+  text-decoration: underline;
+}
+
+p {
+  color: antiquewhite;
+  border: 6px solid #FE4C83;
+  background: #000;
+  text-decoration: underline;
+}
+
+
+body {
+  font-size: 15px;
+  font-family: 'BhuTaka Expanded One', cursive, avenir;
+  text-align: center;
+  margin: 0 auto;
+  width: 900px;
+  background: linear-gradient(to right, #FFC6D0, #FFF3E0);
+}
+
+ul {
+  list-style-type: none; 
+  font-weight: bold;
+  margin-right: 25px;
+  /* comments for developers */
+}
+
+div {
+  border: 1.5px solid black;
+  border-radius: 20px;
+  box-shadow: 8px 8px 10px gray;
+}
